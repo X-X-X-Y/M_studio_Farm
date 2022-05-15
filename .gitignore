@@ -1,1 +1,7 @@
 /Library
+.vscode
+Logs
+Packages
+Temp
+UserSettings
+Assembly-CSharp.csproj
