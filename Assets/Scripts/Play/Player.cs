@@ -5,6 +5,7 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     #region 成员变量
+    
     private Rigidbody2D rb;
     public float speed;
     private float inputX;
